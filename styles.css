@@ -1,0 +1,18 @@
+body{background: linear-gradient(to top, #ffcccc 0%, #ffff00 100%);}
+h1{color: #ff8080;}
+h1{text-align: center;}
+h1{font-family: "Comic Sans MS", cursive, sans-serif}
+h1{font-size: 20px}
+h1{text-shadow: 2px 2px orange;}
+h2{color: #ff6666;}
+h2{font-family: "Comic Sans MS", cursive, sans-serif}
+h2{text-align: center}
+h2{font-size: 40px}
+h2{text-shadow: 2px 2px orange}
+p{color: #ff6666;}
+p{font-family: "Comic Sans MS", cursive, sans-serif}
+p{font-size: 35px}
+a{color: darkorange;}
+a{font-family: "Comic Sans MS", cursive, sans-serif}
+a{font-size: 10px}
+a{text-decoration: none}
